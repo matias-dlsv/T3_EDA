@@ -1,0 +1,3 @@
+/home/delachotax/estructuradedatos/t3/rb_tree/CMakeFiles/test.dir
+/home/delachotax/estructuradedatos/t3/rb_tree/CMakeFiles/edit_cache.dir
+/home/delachotax/estructuradedatos/t3/rb_tree/CMakeFiles/rebuild_cache.dir
